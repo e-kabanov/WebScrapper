@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q1Bph6ynYZ4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Host\\Desktop\\WebScrapper\\WebScrp\\WebScrp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Host\\.nuget\\packages\\anglesharp\\0.9.8\\anglesharp.0.9.8.nupkg.sha512",
+    "C:\\Users\\Host\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\Host\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Host\\.nuget\\packages\\scalar.aspnetcore\\2.18.3\\scalar.aspnetcore.2.18.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'AngleSharp' 0.9.8 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-pgww-w46g-26qg",
+      "projectPath": "C:\\Users\\Host\\Desktop\\WebScrapper\\WebScrp\\WebScrp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Host\\Desktop\\WebScrapper\\WebScrp\\WebScrp.csproj",
+      "libraryId": "AngleSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\Host\\Desktop\\WebScrapper\\WebScrp\\WebScrp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Host\\Desktop\\WebScrapper\\WebScrp\\WebScrp.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
