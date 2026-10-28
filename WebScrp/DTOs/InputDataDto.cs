@@ -14,3 +14,4 @@ public class InputDataDto
 
     public string PageBase64 { get; set; }
 }
+
